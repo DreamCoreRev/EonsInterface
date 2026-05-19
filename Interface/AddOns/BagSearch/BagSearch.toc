@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cffc79c6eEonsBagSearchUI|r
+## Notes: Addons de recherche dans les sacs.
+##
+## URL: http://eons-world.eu/
+## Author: robinsch
+##
+BagSearch.lua
+BagSearch.xml

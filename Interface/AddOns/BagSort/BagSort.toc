@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cffc79c6eEonsBagSortUI|r
+## Notes: Addons de tri des sacs.
+##
+## URL: http://eons-world.eu/
+## Author: Sushi Sort
+##
+BagSort.lua
+BagSort.xml
